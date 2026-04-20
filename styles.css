@@ -28,14 +28,14 @@ body{
 
 h1, h2, h3, h4, h5 {
   font-family: "Libre Baskerville", serif;
-  font weight: 700;
+  font : weight 700;
   font-style: italic;
 }
 
 
 .nav-link{
     font-family: "Libre Baskerville", serif;
-  font weight: 400;
+  font :weight 400;
   font-style: normal;
   font-size: 1.2em !important;
     padding-right: 2em !important;
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5 {
 }
 
 a:hover{
-  color: #fac7d8 !imporant;
+  color: #fac7d8 !important;
 }
 
 .nav li{
@@ -64,14 +64,14 @@ a:hover{
 p{
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
-  font-style; normal;
+  font-style: normal;
   font-size: 1.2em !important;
 }
 
 a{
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
-  font-style; normal;
+  font-style: normal;
 }
 
 .libre-baskerville-regular {
